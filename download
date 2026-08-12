@@ -1,6 +1,2 @@
-node_modules/
-.codex-temp/
-.cache/
-.env
-.env.local
-*.log
+VITE_SUPABASE_URL=PASTE_YOUR_URL
+VITE_SUPABASE_ANON_KEY=PASTE_YOUR_KEY
